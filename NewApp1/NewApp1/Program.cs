@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, Joe too!");
+            Console.WriteLine("Thirs String.");
         }
     }
 }

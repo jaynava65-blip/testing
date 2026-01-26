@@ -34,6 +34,8 @@ namespace AvgOfThreeNums
             // Output Section
             Console.WriteLine($"The sum is {sum}");
             Console.WriteLine($"The avg is {avg}");
+
+            num3 = double.Parse(Console.ReadLine());
         }
     }
 }
